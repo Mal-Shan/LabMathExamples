@@ -1,0 +1,4 @@
+﻿replicate_num,treatment_group_1,treatment_group_2,treatment_group_3,control_group_1,control_group_2,control_group_3
+replicate 1,15.7,32.2,37.28,14.13,14.11,14.01
+replicate 2,15.8,32.59,34.58,14.15,14.22,13.83
+replicate 3,15.56,32.72,36.34,14.1,14.19,13.75
